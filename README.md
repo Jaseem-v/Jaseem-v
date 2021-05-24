@@ -33,35 +33,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <img src="https://img.shields.io/badge/photoshop-3c327b.svg?&style=for-the-badge&logo=photoshop&logoColor=white" height="25"/>
  	  
 
-
-
-<!---**Languages and Tools:**  
-
-<code><img height="40" margin-top="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" margin-top="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" margin-top="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" margin-top="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" margin-top="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" margin-top="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<br/><br/>
-<code><img height="40" margin-top="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" margin-top="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" margin-top="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="40" margin-top="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
-<!---
-
-<br/><br/>
-📈 My GitHub Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Jaseem-v&show_icons=true&theme=gotham"  />
-<br/><br/>
-
-
-
-
-<!--
-
+<!-- 
 - 🔭 I’m currently working on ...some React web projects 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -69,9 +41,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
--->
+
 <br/><br/>
 
 ## ⭐ &nbsp;My Stats
@@ -79,8 +51,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaseem-v&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jaseem-v&theme=radical&layout=compact&exclude_lang=java+r" />
-<!--     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devded&theme=tokyonight" /> -->
-
 </a>
 </p>
 
