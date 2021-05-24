@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!](www.instagram.com/jaseem_v/)
+- 📬 How to reach me: [Let's get in touch!](https://www.instagram.com/jazeem_v/)
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <br>
@@ -45,7 +45,7 @@
 ## ⭐ &nbsp;My Stats
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaseem-v&show_icons=true&theme=radical" />
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=jaseem-v&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaseem-v&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
