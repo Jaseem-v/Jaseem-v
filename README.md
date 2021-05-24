@@ -48,8 +48,10 @@
 <a href="https://github.com/AVS1508">
   <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=jaseem-v&show_icons=true&theme=radical" />
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaseem-v&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
+  <br/>
+</a> 
 </p>
+  <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaseem-v&theme=radical" />
 
 <br/>
 
