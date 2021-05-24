@@ -45,8 +45,8 @@
 ## ⭐ &nbsp;My Stats
 <p>
 <a href="https://github.com/AVS1508">
-  <img  width="45%" src="https://github-readme-stats.vercel.app/api?username=jaseem-v&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaseem-v&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=jaseem-v&show_icons=true&theme=radical" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaseem-v&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
