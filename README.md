@@ -1,6 +1,6 @@
-### Hi there 👋       &nbsp;&nbsp;&nbsp;&nbsp;![Profile views](https://gpvc.arturio.dev/Jaseem-v)
+### Hi there 👋       <p align="right"> <img src="https://komarev.com/ghpvc/?username=jaseem-v" alt="devded" /> </p>
 
-##  I'm Jaseem, ## 
+##  I'm Jaseem ## 
 a passionate self-taught Front-end web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
@@ -13,21 +13,26 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - :link:[ my website ](https://jaseem753.netlify.app)                   
 <br/>
 
-### 🛠 &nbsp;Tech Stack ##
+## 🛠 &nbsp;Tech Stack 
 - 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  <img src="https://img.shields.io/badge/HTML-FB7A24.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/css-3776AB.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/NodeJs-3c873a.svg?&style=for-the-badge&logo=nodejs&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/React-007ACC.svg?&style=for-the-badge&logo=React&logoColor=white" height="25"/>
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+    <img src="https://img.shields.io/badge/mongodb-3FA037.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+    <img src="https://img.shields.io/badge/git-f1502f.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/github-333333.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/>
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
+- 	:paintbrush: &nbsp;
+    <img src="https://img.shields.io/badge/illustrator-f1502f.svg?&style=for-the-badge&logo=illustrator&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/photoshop-3c327b.svg?&style=for-the-badge&logo=photoshop&logoColor=white" height="25"/>
+ 	  
+
 
 
 <!---**Languages and Tools:**  
@@ -69,15 +74,17 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 -->
 <br/><br/>
 
-## My Stats
+## ⭐ &nbsp;My Stats
 <p>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaseem-v&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jaseem-v&theme=radical&layout=compact&exclude_lang=java+r" />
+<!--     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devded&theme=tokyonight" /> -->
+
 </a>
 </p>
 
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaseem-v&layout=compact"  />
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaseem-v&layout=compact&theme=radical"  />
 <br/>
 
 ## Connect With Me
