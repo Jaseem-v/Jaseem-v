@@ -32,20 +32,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <img src="https://img.shields.io/badge/illustrator-f1502f.svg?&style=for-the-badge&logo=illustrator&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/photoshop-3c327b.svg?&style=for-the-badge&logo=photoshop&logoColor=white" height="25"/>
  	  
-
-<!-- 
-- 🔭 I’m currently working on ...some React web projects 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-
-<br/><br/>
-
 ## ⭐ &nbsp;My Stats
 <p>
 <a href="https://github.com/AVS1508">
@@ -53,8 +39,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jaseem-v&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaseem-v&layout=compact&theme=radical"  />
+<!-- 
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaseem-v&layout=compact&theme=radical"  /> -->
 <br/>
 
 ## Connect With Me
