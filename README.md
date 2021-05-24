@@ -1,17 +1,26 @@
-### Hi there 👋       <p align="right"> <img src="https://komarev.com/ghpvc/?username=jaseem-v" alt="devded" /> </p>
+<p>
+  <h1 align="center"><b>Hello there, I'm Jaseem 👋</b></h1>
+</p>
 
-##  I'm Jaseem ## 
-a passionate self-taught Front-end web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Jaseem-v" />
+</p>
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-- 🔭 I’m currently working on ...some React web projects 
-- 💬 Ask me about anything, I am happy to help; <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" /> -->
 
-- 🌱 I’m currently learning React js                                        
-- :link:[ my website ](https://jaseem753.netlify.app)                   
-<br/>
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+### I am a Front-end Web Developer
+- 🔭 I’m currently working on some React projects :grin:
+- 🌱 I’m currently learning MERN Stack Development.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2021 Goals: Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: [Let's get in touch!](www.instagram.com/jaseem_v/)
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
+
+<br>
 
 ## 🛠 &nbsp;Tech Stack 
 - 🌐 &nbsp;
@@ -32,20 +41,29 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <img src="https://img.shields.io/badge/illustrator-f1502f.svg?&style=for-the-badge&logo=illustrator&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/photoshop-3c327b.svg?&style=for-the-badge&logo=photoshop&logoColor=white" height="25"/>
  	  
+    <br/>
 ## ⭐ &nbsp;My Stats
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaseem-v&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jaseem-v&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaseem-v&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaseem-v&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-<!-- 
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaseem-v&layout=compact&theme=radical"  /> -->
+
 <br/>
 
-## Connect With Me
-<a href="https://www.instagram.com/jaseem_v/" target="_blank"><img align="left" alt="Instagram" width="100px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" /></a>
-<a href="https://www.linkedin.com/in/ojaswi-awasthi-2a47a117b/" target="_blank"><img align="left" alt="LinkedIn" width="100px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" /></a>
-<a href="https://www.google.com/search?q=google+mail&rlz=1C1RLNS_enIN917IN917&oq=google+mail&aqs=chrome..69i57j0j0i20i263j0i433j0j0i20i263j0l4.3181j0j15&sourceid=chrome&ie=UTF-8" target="_blank"><img align="left" alt="gmail" width="85px" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" /></a>
+##  🤝🏻 &nbsp;Connect with Me
 
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<p align="center">
+  
+<a href="https://www.linkedin.com/in/jaseem-v-a36a94209/">
+    <img src="https://img.shields.io/badge/Jaseem V-007ACC.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+  </a>
+<a href="https://www.instagram.com/jazeem_v/">
+    <img src="https://img.shields.io/badge/Jaseem_v-dd2a7b.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25"/>
+  
+  </a>
+<a href="mailto:muhammedjaseem753@gamil.com">
+    <img src="https://img.shields.io/badge/-Muhammedjaseem753@gmail.com-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" height="25"/>
+  </a>
+  </p>
