@@ -9,7 +9,7 @@
 
 
 
-<img align="right" height="270px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif?raw=true" />
 
 ### I am a Front-end Web Developer
 - 🔭 I’m currently working on some React projects :grin:
