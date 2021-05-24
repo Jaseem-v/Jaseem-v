@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/photoshop-3c327b.svg?&style=for-the-badge&logo=photoshop&logoColor=white" height="25"/>
  	  
     <br/>
-## ⭐ &nbsp;My Stats
+## :chart_with_upwards_trend: &nbsp;My Stats
 <p>
 <a href="https://github.com/AVS1508">
   <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=jaseem-v&show_icons=true&theme=radical" />
@@ -55,7 +55,7 @@
 
 <br/>
 
-##  🤝🏻 &nbsp;Connect with Me
+## 🤝 &nbsp;Connect with Me 
 
 <p align="center">
   
