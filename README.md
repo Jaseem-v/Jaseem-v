@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/HTML-FB7A24.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/css-3776AB.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Sass-cc6699.svg?&style=for-the-badge&logo=Sass&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Bootstrap-563d7c.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/NodeJs-3c873a.svg?&style=for-the-badge&logo=nodejs&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/React-007ACC.svg?&style=for-the-badge&logo=React&logoColor=white" height="25"/>
