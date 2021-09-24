@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!](https://www.instagram.com/jazeem_v/)
+- 📬 How to reach me: [Let's get in touch!](https://www.instagram.com/jaseem._v/)
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 - :computer: visit my [Website](https://jaseem753.netlify.app/)
 
@@ -63,7 +63,7 @@
 <a href="https://www.linkedin.com/in/jaseem-v-a36a94209/">
     <img src="https://img.shields.io/badge/Jaseem V-007ACC.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
-<a href="https://www.instagram.com/jazeem_v/">
+<a href="https://www.instagram.com/jaseem._v/">
     <img src="https://img.shields.io/badge/Jaseem_v-dd2a7b.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25"/>
   
   </a>
