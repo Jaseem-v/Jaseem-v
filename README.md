@@ -15,11 +15,10 @@
 - 🔭 I’m currently working on some React projects :grin:
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!](https://www.instagram.com/jaseem._v/)
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/jaseem-v-a36a94209/)
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
-- :computer: visit my [Website](https://jaseem753.netlify.app/)
 
 <br>
 
