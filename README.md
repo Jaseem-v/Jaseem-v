@@ -31,6 +31,13 @@
   <img src="https://img.shields.io/badge/Bootstrap-563d7c.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/NodeJs-3c873a.svg?&style=for-the-badge&logo=nodejs&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/React-007ACC.svg?&style=for-the-badge&logo=React&logoColor=white" height="25"/>
+  <br/>  &nbsp;  &nbsp;  &nbsp;  &nbsp;
+   <img src="https://img.shields.io/badge/Typescript-2F74C0.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+     <img src="https://img.shields.io/badge/Redux-593D88.svg?&style=for-the-badge&logo=redux&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Material--UI-0081CB.svg?&style=for-the-badge&logo=mui&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white" height="25"/>
+   <img src="https://img.shields.io/badge/next.js-20232A.svg?&style=for-the-badge&logo=next.js&logoColor=white" height="25"/>
+
 - 🛢 &nbsp;
     <img src="https://img.shields.io/badge/mongodb-3FA037.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 - ⚙️ &nbsp;
